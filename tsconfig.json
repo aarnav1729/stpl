@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+      "baseUrl": "./src",
+      "paths": {
+        "@tailus-ui/*": ["/components/tailus-ui/*"],
+        "@lib/*": ["/lib/*"]
+      }
+    }
+  }  
